@@ -1,0 +1,571 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="Klan TV" tvg-name="Klan TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/TV_Klan.svg.png" group-title="Albania",KLAN
+http://iptv-line.com:6969/live/BhT4LDLs51/wWOfuMOHqq/3421.m3u8
+#EXTINF:-1 tvg-ID="Klan Plus" tvg-name="Klan Plus" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Klan-Plus.png" group-title="Albania",KLAN Plus
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3422.m3u8
+#EXTINF:-1 tvg-ID="ABC News" tvg-name="ABC News" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ABC.png" group-title="Albania",ABC News
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3455.m3u8
+#EXTINF:-1 tvg-ID="Klan Kosova" tvg-name="Klan Kosova Toksor" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Klan%20Kosova.jpg" group-title="Albania",Klan Kosova
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3419.m3u8
+#EXTINF:-1 tvg-ID="Klan Kosova" tvg-name="KLAN Kosova HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Klan%20Kosova.jpg" group-title="Albania",KLAN Kosova
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3420.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="KUJTESA SPORT1" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/K%20sport%201.png" group-title="Albania",KUJTESA SPORT 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/7369.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="KUJTESA SPORT2" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/K%20sport%202.jpg" group-title="Albania",KUJTESA SPORT 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/7370.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="KUJTESA SPORT3" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/K%20sport%203.png" group-title="Albania",KUJTESA SPORT 3
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/7371.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="KUJTESA SPORT4" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/K%20sport%204.png" group-title="Albania",KUJTESA SPORT 4
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/7372.m3u8
+#EXTINF:-1 tvg-ID="SS Kosova 1" tvg-name="SS Kosova 1" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ss%20kosova%201.jpg" group-title="Albania",SS Kosovo 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2128.m3u8
+#EXTINF:-1 tvg-ID="SS Kosova 2" tvg-name="SS Kosova 2" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ss%20kosova%202.png" group-title="Albania",SS Kosovo 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2127.m3u8
+#EXTINF:-1 tvg-ID="RTSH1 HD" tvg-name="TVSH" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tvsh.png" group-title="Albania",TVSH
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/7444.m3u8
+#EXTINF:-1 tvg-ID="RTSH1 HD" tvg-name="RTSH1 HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/RTSH1.png" group-title="Albania",RTSH 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19511.m3u8
+#EXTINF:-1 tvg-ID="RTSH Sport" tvg-name="RTSH Sport" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/RTSHsport.png" group-title="Albania",RTSH Sport
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3453.m3u8
+#EXTINF:- tvg-ID="RTSH 2" tvg-name="RTSH 2" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/RTSH2.png" group-title="Albania",RTSH 2
+http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
+#EXTINF:-0 tvg-ID="RTSH 3" tvg-name="RTSH 3" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/RTSH3.png" group-title="Albania",RTSH 3
+http://79.106.48.2/live/rtsh_3ott/playlist.m3u8
+#EXTINF:-0 tvg-ID="RTSH Plus" tvg-name="RTSH Plus" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rtshplus.png" group-title="Albania",RTSH Plus
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+#EXTINF:-0 tvg-ID="RTSH Shqip" tvg-name="RTSH Shqip" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rtshshqip.jpg" group-title="Albania",RTSH Shqip
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-0 tvg-ID="RTSH Muzike" tvg-name="RTSH Muzike" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rtshmuzike.png" group-title="Albania",RTSH Muzike
+http://79.106.48.2/live/rtsh_muzike_ott/playlist.m3u8
+#EXTINF:-0 tvg-ID="RTSH 24" tvg-name="RTSH 24" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rtsh24.png" group-title="Albania",RTSH 24
+http://79.106.48.2/live/rtsh_24_ott/playlist.m3u8
+#EXTINF:-0 tvg-ID="RTSH Femije" tvg-name="RTSH Femije" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rtshfemije.png" group-title="Albania",RTSH Femije
+http://79.106.48.2/live/rtsh_femije_ott/playlist.m3u8
+#EXTINF:-0 tvg-ID="RTSH Film" tvg-name="RTSH Film" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rtshfilm.jpg" group-title="Albania",RTSH Film
+http://79.106.48.2/live/rtsh_film_ott/playlist.m3u8
+#EXTINF:-1 tvg-ID="Top Channel" tvg-name="Top Channel HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/topchannel.png" group-title="Albania",Top Channel
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/7466.m3u8
+#EXTINF:-1 tvg-ID="Top Channel HD" tvg-name="Top Channel HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/topchannel.png" group-title="Albania",Top Channel
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3402.m3u8
+#EXTINF:-1 tvg-ID="Top News" tvg-name="Top News" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Top%20news.png" group-title="Albania",Top News
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3471.m3u8
+#EXTINF:-1 tvg-ID="Ora News" tvg-name="ORA News" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ora-news.jpg" group-title="Albania",ORA News
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3457.m3u8
+#EXTINF:-1 tvg-ID="News 24" tvg-name="News 24" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/news-24-live.png" group-title="Albania",News 24
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3456.m3u8
+#EXTINF:-1 tvg-ID="SuperSport 1" tvg-name="SuperSport 1" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ss1.jpg" group-title="Albania",Super Sport 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2130.m3u8
+#EXTINF:-1 tvg-ID="SuperSport 2" tvg-name="SuperSport 2" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ss2.jpg" group-title="Albania",Super Sport 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2129.m3u8
+#EXTINF:-1 tvg-ID="SuperSport 3" tvg-name="SuperSport 3" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ss3.jpg" group-title="Albania",Super Sport 3
+http://iptv-line.com:7899/live/cf9atAEvGY/wWOfuMOHqq/3367.m3u8
+#EXTINF:-1 tvg-ID="SuperSport 4" tvg-name="SuperSport 4" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ss4.jpg" group-title="Albania",Super Sport 4
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3405.m3u8
+#EXTINF:-1 tvg-ID="SuperSport 5" tvg-name="SuperSport 5" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ss5.jpg" group-title="Albania",Super Sport 5
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3404.m3u8
+#EXTINF:-1 tvg-ID="SuperSport 6" tvg-name="SuperSport 6" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ss6.jpg" group-title="Albania",Super Sport 6
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3403.m3u8
+#EXTINF:-1 tvg-ID="SuperSport 1" tvg-name="SuperSport 1" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ss1hd.png" group-title="Albania",Super Sport 1 HD
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/337.m3u8
+#EXTINF:-1 tvg-ID="SuperSport 2" tvg-name="SuperSport 2" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ss2hd.png" group-title="Albania",Super Sport 2 HD
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/338.m3u8
+#EXTINF:-1 tvg-ID="SuperSport 3" tvg-name="SuperSport 3" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ss3hd.png" group-title="Albania",Super Sport 3 HD
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/339.m3u8
+#EXTINF:-1 tvg-ID="SuperSport 4" tvg-name="SuperSport 4" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ss4hd.png" group-title="Albania",Super Sport 4 HD
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/340.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport 1 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SuperSport.png" group-title="Albania",AL: Super Sport 1 FHD
+http://iptv-line.com:7899/live/cf9atAEvGY/wWOfuMOHqq/26839.m3u8
+#EXTINF:-1 tvg-ID="SuperSport2.al" tvg-name="AL: Super Sport 2 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SuperSport.png" group-title="Albania",AL: Super Sport 2 FHD
+http://iptv-line.com:7899/live/cf9atAEvGY/wWOfuMOHqq/26838.m3u8
+#EXTINF:-1 tvg-ID="SuperSportKosova3.al" tvg-name="AL: Super Sport 3 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SuperSport.png" group-title="Albania",AL: Super Sport 3 FHD
+http://iptv-line.com:7899/live/cf9atAEvGY/wWOfuMOHqq/26837.m3u8
+#EXTINF:-1 tvg-ID="SuperSport4.al" tvg-name="AL: Super Sport 4 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SuperSport.png" group-title="Albania",AL: Super Sport 4 FHD
+http://iptv-line.com:7899/live/cf9atAEvGY/wWOfuMOHqq/26836.m3u8
+#EXTINF:-1 tvg-ID="SuperSport5.al" tvg-name="AL: Super Sport 5 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SuperSport.png" group-title="Albania",AL: Super Sport 5 FHD
+http://iptv-line.com:7899/live/cf9atAEvGY/wWOfuMOHqq/26835.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport 6 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SuperSport.png" group-title="Albania",AL: Super Sport 6 FHD
+http://iptv-line.com:7899/live/cf9atAEvGY/wWOfuMOHqq/26834.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport 7 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SuperSport.png" group-title="Albania",AL: Super Sport 7 FHD
+http://iptv-line.com:7899/live/cf9atAEvGY/wWOfuMOHqq/26833.m3u8
+
+#EXTINF:-1 tvg-ID="BBF" tvg-name="BBF" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/bbf.jpg" group-title="Albania",BBF
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3410.m3u8
+#EXTINF:-1 tvg-ID="My Music" tvg-name="My Music" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/My-Music.jpg" group-title="Albania",My Music
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19342.m3u8
+#EXTINF:-1 tvg-ID="Folk Plus" tvg-name="Folk Plus" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/folkplus.png" group-title="Albania",Folk +
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19501.m3u8
+#EXTINF:-1 tvg-ID="Elrodi TV" tvg-name="Elrodi TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Elrodi%20TV.png" group-title="Albania",Elrodi TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19503.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Euro Filem" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/EUROFILM.png" group-title="Albania",Euro Filem
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2145.m3u8
+#EXTINF:-1 tvg-ID="digigold.al" tvg-name="AL: Digi Gold 1" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Digi%20Gold%201.png" group-title="Albania",Digi Gold 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19448.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Digi Gold 2" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Digi%20Gold%202.png" group-title="Albania",Digi Gold 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/17542.m3u8
+#EXTINF:-1 tvg-ID="Digi Gold" tvg-name="Digi Gold 3" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Digi%20Gold%203.png" group-title="Albania",Digi Gold 3
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/17543.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Gold 4" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Digi%20Gold%204.png" group-title="",Digi Gold 4
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/17544.m3u8
+#EXTINF:-1 tvg-ID="EXPLORER Shkence" tvg-name="Explorer Shkenc" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/exshkence.png" group-title="Albania",Explorer Shkenc
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3432.m3u8
+#EXTINF:-1 tvg-ID="EXPLORER Natyra" tvg-name="Explorer Natyra" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/exshkence.png" group-title="Albania",Explorer Natyra
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3433.m3u8
+#EXTINF:-1 tvg-ID="EXPLORER Histori" tvg-name="Explorer Histori" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/exhistory.jpg" group-title="Albania",Explorer Histori
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3434.m3u8
+#EXTINF:-1 tvg-ID="Junior" tvg-name="Junior TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Junior.png" group-title="Albania",Junior TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3468.m3u8
+#EXTINF:-1 tvg-ID="Cufo TV" tvg-name="Cufo TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Cufo.png" group-title="Albania",Cufo TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3425.m3u8
+#EXTINF:-1 tvg-ID="Bang Bang" tvg-name="Bang Bang" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/BangBang.png" group-title="Albania",Bang Bang
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19502.m3u8
+#EXTINF:-1 tvg-ID="T HD" tvg-name="T HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/thd.png" group-title="Albania",T
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19508.m3u8
+#EXTINF:-1 tvg-ID="Family HD" tvg-name="PLUS HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/FAMILY.png" group-title="Albania",Family
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3431.m3u8
+#EXTINF:-1 tvg-ID="Film Thriller" tvg-name="FILM THRILLER" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/thriller.png" group-title="Albania",Film Thriller
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2139.m3u8
+#EXTINF:-1 tvg-ID="Film Nje HD" tvg-name="Film Nje HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/filemnje.png" group-title="Albania",Film Nje
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3360.m3u8
+#EXTINF:-1 tvg-ID="Film Dy HD" tvg-name="FILM DY" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/FilmDyHD.png" group-title="Albania",Film Dy
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2141.m3u8
+#EXTINF:-1 tvg-ID="Film Drame" tvg-name="FILM DRAME" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/filmdrame.png" group-title="Albania",Film Drame
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2142.m3u8
+#EXTINF:-1 tvg-ID="Film Komedi" tvg-name="Film Komedi HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/filmkomedi.jpg" group-title="Albania",Film Komedi
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3364.m3u8
+#EXTINF:-1 tvg-ID="Film Hits" tvg-name="Film Hits HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/filmhits.png" group-title="Albania",Film Hits
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3361.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Film Autor HD" tvg-logo="https://iptv-e.000webhostapp.com//AlbLogo/autor.png" group-title="Albania",Film Autor
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3365.m3u8
+#EXTINF:-1 tvg-ID="Film Aksion" tvg-name="Film Aksion HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/aksion.png" group-title="Albania",Film Aksion
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3366.m3u8
+#EXTINF:-1 tvg-ID="Stinet" tvg-name="Film Stinet" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/stinet.png" group-title="Albania",Film Stinet
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19506.m3u8
+#EXTINF:-1 tvg-ID="Vizion Plus" tvg-name="Vizion Plus Toksor" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Vizion+.png" group-title="Albania",Vizion Plus
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3424.m3u8
+#EXTINF:-1 tvg-ID="Tring Sport 1 HD" tvg-name="Tring Sport 1 HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tring-sport1.png" group-title="Albania",Tring Sport 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3396.m3u8
+#EXTINF:-1 tvg-ID="Tring Sport 2 HD" tvg-name="Tring Sport 2 HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tringsport2hd.jpg" group-title="Albania",Tring Sport 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3368.m3u8
+#EXTINF:-1 tvg-ID="Tring Sport 3 HD" tvg-name="Tring Sport 3 HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tringsport3hd.png" group-title="Albania",Tring Sport 3
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3367.m3u8
+#EXTINF:-1 tvg-ID="Tring Sport 4 HD" tvg-name="TRING SPORT 4 HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tringsport4hd.jpg" group-title="Albania",TRING SPORT 4
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3395.m3u8
+#EXTINF:-1 tvg-ID="7 News" tvg-name="7 News" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/7news.jpg" group-title="Albania",7 News
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19347.m3u8
+#EXTINF:-1 tvg-ID="TeleSport" tvg-name="TeleSport" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/TeleSport.png" group-title="Albania",TeleSport
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3454.m3u8
+#EXTINF:-1 tvg-ID="Report TV" tvg-name="Report TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/reportv.jpg" group-title="Albania",Report TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3463.m3u8
+#EXTINF:-1 tvg-ID="Ora News" tvg-name="Ora News" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ora-news.jpg" group-title="Albania",Ora News
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2133.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="News 24" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/news-24-live.png" group-title="Albania",News 24
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2134.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Channel ONE" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/channelone.jpg" group-title="Albania",Channel ONE
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19468.m3u8
+#EXTINF:-1 tvg-ID="On-TV" tvg-name="ON TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ontv.png" group-title="Albania",ON TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3426.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="City TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/city.png" group-title="Albania",City TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19440.m3u8
+#EXTINF:-1 tvg-ID="STV Folk" tvg-name="STV Folk" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/stvfolk.jpg" group-title="Albania",STV Folk
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19338.m3u8
+#EXTINF:-1 tvg-ID="Click TV" tvg-name="Click TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/clicktv.png" group-title="Albania",Click TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19452.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Club TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Club%20TV.png" group-title="Albania",Club TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19439.m3u8
+#EXTINF:-1 tvg-ID="Tring Kids" tvg-name="Tring Kids" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Tring%20Kids.png" group-title="Albania",Tring Kids
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19504.m3u8
+#EXTINF:-1 tvg-ID="Tring Kids" tvg-name="Tring Kids" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Tring%20Kids.png" group-title="Albania",Tring Kids
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19464.m3u8
+#EXTINF:-1 tvg-ID="Tring Tring" tvg-name="TRING TRING" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tringtring.png" group-title="Albania",TRING TRING
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2122.m3u8
+#EXTINF:-1 tvg-ID="Tring International" tvg-name="Tring International" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Tring%20International.png" group-title="Albania",Tring International
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19472.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Anime" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tibo.jpg" group-title="Albania",Anime Tibo
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3417.m3u8
+#EXTINF:-1 tvg-ID="3 Plus" tvg-name="Tring 3" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tring3.jpg" group-title="Albania",Tring 3
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3458.m3u8
+#EXTINF:-1 tvg-ID="Tring World" tvg-name="Tring World" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tringworld.png" group-title="Albania",Tring World
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3394.m3u8
+#EXTINF:-1 tvg-ID="Tring Planet" tvg-name="Tring Planet" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tringplanet.png" group-title="Albania",Tring Planet
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3398.m3u8
+#EXTINF:-1 tvg-ID="Tring History" tvg-name="Tring History" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tringhistory.jpg" group-title="Albania",Tring History
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2125.m3u8
+#EXTINF:-1 tvg-ID="Tring Super" tvg-name="Tring Super" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tringsuper.jpg" group-title="Albania",Tring Super
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2123.m3u8
+#EXTINF:-1 tvg-ID="Tring Shqip" tvg-name="Tring Shqip" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tringshqip.png" group-title="Albania",Tring Shqip
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3397.m3u8
+#EXTINF:-1 tvg-ID="Tring Action" tvg-name="Tring Action" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tringaction.png" group-title="Albania",Tring Action
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3399.m3u8
+#EXTINF:-1 tvg-ID="Tring Life" tvg-name="Tring Life" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tringlife.jpg" group-title="Albania",Tring Life
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3400.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TRING KOMEDI" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Tring%20International.png" group-title="Albania",TRING SumerTime
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2124.m3u8
+#EXTINF:-1 tvg-ID="Tring Comedy" tvg-name="Tring Comedy" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tringcomedy.jpg" group-title="Albania",Tring Comedy
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3401.m3u8
+#EXTINF:-1 tvg-ID="Jolly HD" tvg-name="JOLLY HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/jollyHD.jpg" group-title="Albania",Jolly
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2138.m3u8
+#EXTINF:-1 tvg-ID="Living HD" tvg-name="Living HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tringliving.png" group-title="Albania",Living
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3460.m3u8
+#EXTINF:-1 tvg-ID="Smile" tvg-name="Smile HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/TRING-SMILE.jpg" group-title="Albania",Smile
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19340.m3u8
+#EXTINF:-1 tvg-ID="Muse" tvg-name="Muse" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/muse.jpg" group-title="",Muse
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19466.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Tema TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/TEMA-TV.jpg" group-title="",Tema TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19478.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS AKSION" tvg-logo="" group-title="Albania",KS AKSION
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31295.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS COMEDY" tvg-logo="" group-title="Albania",KS COMEDY
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31292.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS DRAMA" tvg-logo="" group-title="Albania",KS DRAMA
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31291.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS GOLD 1 HD" tvg-logo="" group-title="Albania",KS GOLD 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31302.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS GOLD 2 HD" tvg-logo="" group-title="Albania",KS GOLD 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31301.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS GOLD 3 HD" tvg-logo="" group-title="Albania",KS GOLD 3
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31300.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS GOLD 4 HD" tvg-logo="" group-title="Albania",KS GOLD 4
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31299.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS HORROR" tvg-logo="" group-title="Albania",KS HORROR
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31294.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS PREMIER 1 HD" tvg-logo="" group-title="Albania",KS PREMIER 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31296.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS PREMIER 2 HD" tvg-logo="" group-title="Albania",KS PREMIER 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31287.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS PREMIER 3 HD" tvg-logo="" group-title="Albania",KS PREMIER 3
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31288.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS PREMIER 4 HD" tvg-logo="" group-title="Albania",KS PREMIER 4
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31289.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS SERIAL" tvg-logo="" group-title="Albania",KS SERIAL
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31297.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS SERIES HD" tvg-logo="" group-title="Albania",KS SERIES
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31290.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS SHQIP" tvg-logo="" group-title="Albania",KS SHQIP
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31293.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Action HD" tvg-logo="" group-title="Albania",X Action
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31307.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Comedy HD" tvg-logo="" group-title="Albania",X Comedy
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31308.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Dark HD" tvg-logo="" group-title="Albania",X Dark
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31303.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Drama HD" tvg-logo="" group-title="Albania",X Drama
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31304.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Family HD" tvg-logo="" group-title="Albania",X Family
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31305.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Histori HD" tvg-logo="" group-title="Albania",X Histori
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31306.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Premium 1 HD" tvg-logo="" group-title="Albania",X Premium 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31317.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Premium 2 HD" tvg-logo="" group-title="Albania",X Premium 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31316.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Premium 3 HD" tvg-logo="" group-title="Albania",X Premium 3
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31315.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Premium 4 HD" tvg-logo="" group-title="Albania",X Premium 4
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31314.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Romance HD" tvg-logo="" group-title="Albania",X Romance
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31309.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Sci-Fi HD" tvg-logo="" group-title="Albania",X Sci-Fi
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31310.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Shkenca HD" tvg-logo="" group-title="Albania",X Shkenca
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31311.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Thriller HD" tvg-logo="" group-title="Albania",X Thriller
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31312.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: X Western HD" tvg-logo="" group-title="Albania",X Western
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/31313.m3u8
+#EXTINF:-1 tvg-ID="RTK 1" tvg-name="RTK" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/RTK-1.png" group-title="Albania",RTK 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2132.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTK 2" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rtk2.png" group-title="Albania",RTK 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/17810.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTK 3" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rtk3.jpg" group-title="Albania",RTK 3
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/17811.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTK 4" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/RTK4.png" group-title="Albania",RTK 4
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/17814.m3u8
+#EXTINF:-1 tvg-ID="Alsat-M" tvg-name="Alsat M HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alsatM.jpg" group-title="Albania",Alsat M
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/7443.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Komedi" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/skycomedy.jpg" group-title="Albania",Sky Komedi
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3439.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Histori" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/sky.jpg" group-title="Albania",Sky Histori
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3438.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky AL Max" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/sky.jpg" group-title="Albania",Sky AL Max
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3436.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Shkence" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/sky.jpg" group-title="Albania",Sky Shkence
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3440.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Aksion" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/skyaction.png" group-title="Albania",Sky Aksion
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3435.m3u8
+#EXTINF:-1 tvg-ID="RTV 21" tvg-name="RTV 21" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rtv21.jpg" group-title="Albania",RTV 21
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2131.m3u8
+#EXTINF:-1 tvg-ID="RTV 21" tvg-name="RTV 21 Popullore" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rtv21popullore.png" group-title="Albania",RTV 21 Popullore
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3467.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTV 21 Mix HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rtv21.jpg" group-title="Albania",RTV 21 Mix
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3464.m3u8
+#EXTINF:-1 tvg-ID="RTV 21 MK" tvg-name="RTV 21 Maqedonia" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rtv21macedonia.png" group-title="Albania",RTV 21 Maqedonia
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3465.m3u8
+#EXTINF:-1 tvg-ID="21 Junior" tvg-name="RTV 21 Junior" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rtv21junior.png" group-title="Albania",RTV 21 Junior
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3466.m3u8
+#EXTINF:-1 tvg-ID="Rrokum TV" tvg-name="Rrokum TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rrokum.jpg" group-title="Albania",Rrokum TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3472.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="WesterN" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/westerntv.png" group-title="Albania",WesterN
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3411.m3u8
+#EXTINF:-1 tvg-ID="Nat Geo HD" tvg-name="Nat Geographic" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/nationalgeographic.jpg" group-title="Albania",Nat Geographic
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3407.m3u8
+#EXTINF:-1 tvg-ID="KTV" tvg-name="KTV HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ktv.jpg" group-title="Albania",KTV HD
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2136.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alb Film" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",Alb Film
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19450.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Action" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",ALB Action
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3418.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Thriller" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",ALB Thriller
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3412.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Kino ROMANCE HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",ALB Horror
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3449.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Kino Dark HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",ALB Folk
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3451.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Humor 2" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",ALB Humor 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3413.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Humor 1" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",ALB Humor
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3414.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Camel TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/cameltv.png" group-title="Albania",Camel TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3408.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Kino Thriller HD" tvg-logo="" group-title="Albania",MB Premium 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3447.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="JUG TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Jug%20TV.png" group-title="Albania",JUG TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3459.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ERA TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/eratv.png" group-title="Albania",ERA TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16019.m3u8
+#EXTINF:-1 tvg-ID="Koha TV" tvg-name="TV Koha" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tvkoha.jpeg" group-title="Albania",TV Koha
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16015.m3u8
+#EXTINF:-1 tvg-ID="Shenja TV" tvg-name="TV Shenja" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/shenja.jpg" group-title="Albania",TV Shenja
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16016.m3u8
+#EXTINF:-1 tvg-ID="TV Tetova" tvg-name="TV Tetova" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tetova.png" group-title="Albania",TV Tetova
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16020.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Shqip Fantazi" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",Shqip Fantazi
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16164.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Shqip Film" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",Shqip Film
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16173.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Shqip Qifteli" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",Shqip Qifteli
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16168.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ShqipTV Drama HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",ShqipTV Drama
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16174.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ShqipTV Horror HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",ShqipTV Horror
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16170.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV Syri Vision" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/syri.jpg" group-title="Albania",TV Syri Vision
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19339.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ZICO TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/ZICO.png" group-title="Albania",ZICO TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19335.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AMOL TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/AMOL.png" group-title="Albania",AMOL TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19444.m3u8
+#EXTINF:-1 tvg-ID="Arta HD" tvg-name="ARTA NEWS" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/arta.jpg" group-title="Albania",ARTA NEWS
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19442.m3u8
+#EXTINF:-1 tvg-ID="Baby TV" tvg-name="Baby Tv" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/BabyTv.png" group-title="Albania",Baby Tv
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19465.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Dasma TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/DasmaTV.png" group-title="Albania",Dasma TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19498.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Diaspora" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/diaspora.png" group-title="",Diaspora
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19438.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Drita Tv" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/drita.jpg" group-title="Albania",Drita Tv
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19436.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Dukagjini TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/dukagjini.png" group-title="Albania",Dukagjini TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19510.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Folklorit" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/folklorit.png" group-title="Albania",Folklorit
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19496.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" group-title="Albania",FOX
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19480.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Life" tvg-logo="" group-title="",FOX Life
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19479.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GlobiTV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/TV-2-HD.png" group-title="Albania",Globi
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19469.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Kosova" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/mtv.jpg" group-title="Albania",MTV Kosova
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19458.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTV Bujanovc" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/bujanovac.jpg" group-title="Albania",RTV Bujanovc
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19460.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Rtv Zeri i Kosoves" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/rtvzerikosoves.jpg" group-title="Albania",Rtv Zeri i Kosoves
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19459.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ShqipTV Cinema" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/shqiptv.jpg" group-title="Albania",ShqipTV Cinema
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19461.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Max" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/sky.jpg" group-title="Albania",Sky Max
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19463.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Star  Shkodra" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/starshkodra.jpg" group-title="Albania",Star  Shkodra
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19471.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Syri Blue HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/syriblu.png" group-title="Albania",Syri Blue
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19507.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Top Estrada TV HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/TopestradaTv.png" group-title="Albania",Top Estrada TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19456.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Travel Channel" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/TravelChannel.png" group-title="Albania",Travel Channel
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19497.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Tribuna TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Tribuna.png" group-title="Albania",Tribuna TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19473.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TURBO CHANNEL" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/turbo.png" group-title="Albania",TURBO CHANNEL
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19482.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV Mitrovica" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Mitrovica.png" group-title="Albania",TV Mitrovica
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19451.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV Opoja" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tvopoja.jpg" group-title="Albania",TV Opoja
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19481.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV SHARRI HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tvsharri.png" group-title="Albania",TV SHARRI
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/19477.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ShqipTV Humor HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",ShqipTV Humor
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16171.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ShqipTV Komedi HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",ShqipTV Komedi
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16166.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ShqipTV Mimi HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",ShqipTV Mimi
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16167.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ShqipTV Stupcat HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",ShqipTV Stupcat
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16172.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ShqipTV Tom & Jerry HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/tj.jpg" group-title="Albania",ShqipTV Tom & Jerry
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16169.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ShqipTV WESTERN" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/alb%20tv.jpg" group-title="Albania",ShqipTV WESTERN
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16175.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alb Music HD" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/albmusic.png" group-title="Albania",Alb Music
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/16501.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Zjarr TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/zjarr.jpg" group-title="Albania",Zjarr TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3461.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="A1 SHQIPTARE" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/A1Shqiptare.jpg" group-title="Albania",A1 SHQIPTARE
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3462.m3u8
+#EXTINF:-1 tvg-ID="first CHANNEL" tvg-name="First TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/first.png" group-title="Albania",First TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3469.m3u8
+#EXTINF:-1,IT: Sky Calcio 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/5205.m3u8
+#EXTINF:-1 tvg-ID="Rai 1 HD IT" tvg-name="IT | Rai1 HD" tvg-logo="" group-title="Italy",Rai 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/205.m3u8
+#EXTINF:-1 tvg-ID="Rai 2 HD IT" tvg-name="IT | Rai2 HD" tvg-logo="" group-title="Italy",Rai 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/204.m3u8
+#EXTINF:-1 tvg-ID="Rai 3 HD IT" tvg-name="IT | Rai3 HD" tvg-logo="" group-title="Italy",Rai 3
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/203.m3u8
+#EXTINF:-1 tvg-ID="Rai 4 HD IT" tvg-name="IT | Rai4 HD" tvg-logo="" group-title="Italy",Rai 4
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/202.m3u8
+#EXTINF:-1 tvg-ID="Rai 5 HD IT" tvg-name="IT | Rai5 HD" tvg-logo="" group-title="Italy",Rai 5
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/201.m3u8
+#EXTINF:-1 tvg-ID="Italia 1 Full HD IT" tvg-name="IT: italia1 HD" tvg-logo="" group-title="Italy",Italia 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/207.m3u8
+#EXTINF:-1 tvg-ID="Italia 2 IT" tvg-name="IT: Italia 2" tvg-logo="" group-title="Italy",Italia 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/210.m3u8
+#EXTINF:-1 tvg-ID="Rete 4 HD IT" tvg-name="IT: Rete4 HD" tvg-logo="" group-title="Italy",Rete 4
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/209.m3u8
+#EXTINF:-1 tvg-ID="Canale 5 Full HD IT" tvg-name="IT: Canal 5 HD" tvg-logo="" group-title="Italy",Canal 5
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2331.m3u8
+#EXTINF:-1 tvg-ID="Rai Sport 1 IT" tvg-name="IT: Rai Sport1" tvg-logo="" group-title="Italy",Rai Sport 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/198.m3u8
+#EXTINF:-1 tvg-ID="Rai Sport 2 IT" tvg-name="IT: Rai Sport2" tvg-logo="" group-title="Italy",Rai Sport 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/197.m3u8
+#EXTINF:-1 tvg-ID="Rai Premium HD IT" tvg-name="IT: Rai Premium" tvg-logo="" group-title="Italy",Rai Premium
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/199.m3u8
+#EXTINF:-1 tvg-ID="Rai Movie IT" tvg-name="IT: Rai Movie" tvg-logo="" group-title="Italy",Rai Movie
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/200.m3u8
+#EXTINF:-1 tvg-ID="Mediaset Extra IT" tvg-name="IT | Mediaset Extra" tvg-logo="" group-title="Italy",Mediaset Extra
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/211.m3u8
+#EXTINF:-1 tvg-ID="Rai YoYo IT" tvg-name="IT: Rai Yoyo" tvg-logo="" group-title="Italy",Rai Yoyo
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2305.m3u8
+#EXTINF:-1 tvg-ID="Cartoonito IT" tvg-name="IT: Cartoonito" tvg-logo="" group-title="Italy",Cartoonito
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2329.m3u8
+#EXTINF:-1 tvg-ID="Cartoon Network IT" tvg-name="IT:CARTOON  NETWORK" tvg-logo="" group-title="Italy",CARTOON  NETWORK
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2330.m3u8
+#EXTINF:-1 tvg-ID="Premium Disney Junior IT" tvg-name="IT:Premium Disney Junior" tvg-logo="" group-title="Italy",Premium Disney Junior
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2308.m3u8
+#EXTINF:-1 tvg-ID="Discovery Channel Full HD IT" tvg-name="IT: Discovery HD" tvg-logo="" group-title="Italy",Discovery
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2324.m3u8
+#EXTINF:-1 tvg-ID="Discovery Science Full HD IT" tvg-name="IT: Discovery Science HD" tvg-logo="" group-title="Italy",Discovery Science
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2326.m3u8
+#EXTINF:-1 tvg-ID="Discovery Travel & Living Full HD IT" tvg-name="IT: Discovery Travel&Living HD" tvg-logo="" group-title="Italy",Discovery Travel&Living
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2325.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Discovery Focus" tvg-logo="" group-title="Italy",Discovery Focus
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2327.m3u8
+#EXTINF:-1 tvg-ID="Dmax HD IT" tvg-name="IT: Dmax HD" tvg-logo="" group-title="Italy",Dmax
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/226.m3u8
+#EXTINF:-1 tvg-ID="Top Crime IT" tvg-name="IT: TOP CRIME" tvg-logo="" group-title="Italy",TOP CRIME
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2284.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Mediaset Iris" tvg-logo="" group-title="Italy",Mediaset Iris
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2318.m3u8
+#EXTINF:-1 tvg-ID="Cielo IT" tvg-name="IT: Cielo" tvg-logo="" group-title="Italy",Cielo
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2328.m3u8
+#EXTINF:-1 tvg-ID="Rai Gulp IT" tvg-name="IT: Rai Gulp" tvg-logo="" group-title="Italy",Rai Gulp
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2306.m3u8
+#EXTINF:-1 tvg-ID="Real Time IT" tvg-name="IT: Real Time" tvg-logo="" group-title="Italy",Real Time
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2304.m3u8
+#EXTINF:-1 tvg-ID="RSI La 1 HD IT" tvg-name="IT: RSI La1 HD" tvg-logo="" group-title="Italy",RSI La1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/196.m3u8
+#EXTINF:-1 tvg-ID="RSI La 2 HD IT" tvg-name="IT: RSI La2 HD" tvg-logo="" group-title="Italy",RSI La2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/195.m3u8
+#EXTINF:-1 tvg-ID="La7 IT" tvg-name="IT: La7" tvg-logo="" group-title="Italy",La7
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/208.m3u8
+#EXTINF:-1 tvg-ID="National Geo Wild HD IT" tvg-name="IT: Nat Geo Wild HD" tvg-logo="" group-title="Italy",Nat Geo Wild
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2316.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Crime Investigation FHD" tvg-logo="" group-title="Italy",Crime Investigation
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/18165.m3u8
+#EXTINF:-1 tvg-ID="National Geographic FHD IT" tvg-name="IT: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Italy",NATIONAL GEOGRAPHIC
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2315.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Fox Comedy HD" tvg-logo="" group-title="Italy",Sky Fox Comedy
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2323.m3u8
+#EXTINF:-1 tvg-ID="FOX Sports IT" tvg-name="IT: FOX Sport HD" tvg-logo="" group-title="Italy",FOX Sport
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2321.m3u8
+#EXTINF:-1 tvg-ID="Fox Life HD IT" tvg-name="IT: Fox Life HD" tvg-logo="" group-title="Italy",Fox Life
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/534.m3u8
+#EXTINF:-1 tvg-ID="Fox Full HD IT" tvg-name="IT: FOX HD" tvg-logo="" group-title="Italy",FOX
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/533.m3u8
+#EXTINF:-1 tvg-ID="Fox Crime HD IT" tvg-name="IT: Fox Crime HD" tvg-logo="" group-title="Italy",Fox Crime
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2322.m3u8
+#EXTINF:-1 tvg-ID="FOX Animation IT" tvg-name="IT: Fox Animation FHD" tvg-logo="" group-title="Italy",Fox Animation
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/18171.m3u8
+#EXTINF:-1 tvg-ID="Sky Sport 1 FHD IT" tvg-name="IT: Sky Sport F1 HD" tvg-logo="" group-title="Italy",Sky Sport F1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/188.m3u8
+#EXTINF:-1 tvg-ID="Sky Moto GP HD IT" tvg-name="IT: Sky Moto GP HD" tvg-logo="" group-title="Italy",Sky Moto GP
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/238.m3u8
+#EXTINF:-1 tvg-ID="Animal Planet IT" tvg-name="IT: Animal Planet" tvg-logo="" group-title="Italy",Animal Planet
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2332.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FISHING TV" tvg-logo="" group-title="Italy",FISHING TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/9191.m3u8
+#EXTINF:-1 tvg-ID="Pesca e Caccia HD IT" tvg-name="IT: Pesca e Caccia" tvg-logo="" group-title="Italy",Pesca e Caccia
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2314.m3u8
+#EXTINF:-1 tvg-ID="SportItalia IT" tvg-name="IT: SPORT ITALIA" tvg-logo="" group-title="Italy",SPORT ITALIA
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2287.m3u8
+#EXTINF:-1 tvg-ID="Sky 3D IT" tvg-name="IT:SKY Cinema 3D" tvg-logo="" group-title="Italy",SKY Cinema
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2288.m3u8
+#EXTINF:-1 tvg-ID="Sky TG24 IT" tvg-name="IT: SKY TG 24" tvg-logo="" group-title="Italy",SKY TG 24
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2289.m3u8
+#EXTINF:-1 tvg-ID="Juventus Channell IT" tvg-name="IT: Juventus TV" tvg-logo="" group-title="Italy",Juventus TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/6761.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Roma TV FHD" tvg-logo="" group-title="Italy",Roma TV
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/18153.m3u8
+#EXTINF:-1 tvg-ID="Inter Channel IT" tvg-name="IT: Inter Channel" tvg-logo="" group-title="Italy",Inter Channel
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2320.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Milan Channel" tvg-logo="" group-title="Italy",Milan Channel
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/2317.m3u8
+#EXTINF:-1 tvg-ID="FOX Animation IT" tvg-name="IT: Fox Animation" tvg-logo="" group-title="Italy",Fox Animation
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/7843.m3u8
+#EXTINF:-1 tvg-ID="DeeJay TV HD IT" tvg-name="VIP IT: DEEJAY TV NOVE" tvg-logo="" group-title="Italy",DEEJAY TV NOVE
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/7675.m3u8
+#EXTINF:-1 tvg-ID="EuroSport 1 HD IT" tvg-name="IT | Eurosport 1 HD" tvg-logo="" group-title="Italy",Eurosport 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/225.m3u8
+#EXTINF:-1 tvg-ID="Eurosport 2 HD IT" tvg-name="IT | Eurosport 2 HD" tvg-logo="" group-title="Italy",Eurosport 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/224.m3u8
+#EXTINF:-1 tvg-ID="Sky Calcio 1 HD IT" tvg-name="IT: Sky Calcio 1" tvg-logo="" group-title="Italy",Sky Calcio 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/5205.m3u8
+#EXTINF:-1 tvg-ID="Sky Calcio 2 HD IT" tvg-name="IT: Sky Calcio 2" tvg-logo="" group-title="Italy",Sky Calcio 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/5206.m3u8
+#EXTINF:-1 tvg-ID="Sky Calcio 3 HD IT" tvg-name="IT: Sky Calcio 3" tvg-logo="" group-title="Italy",Sky Calcio 3
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/5207.m3u8
+#EXTINF:-1 tvg-ID="Sky Calcio 4 HD IT" tvg-name="IT: Sky Calcio 4" tvg-logo="" group-title="Italy",Sky Calcio 4
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/5208.m3u8
+#EXTINF:-1 tvg-ID="Sky Calcio 5 HD IT" tvg-name="IT: Sky Calcio 5" tvg-logo="" group-title="Italy",Sky Calcio 5
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/5209.m3u8
+#EXTINF:-1 tvg-ID="Sky Calcio 6 HD IT" tvg-name="IT: Sky Calcio 6" tvg-logo="" group-title="Italy",Sky Calcio 6
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/5210.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT | Premium Calcio 1" tvg-logo="" group-title="Italy",Premium Calcio 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3609.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT | Premium Calcio 2" tvg-logo="" group-title="Italy",Premium Calcio 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3610.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT | Premium Calcio 3" tvg-logo="" group-title="Italy",Premium Calcio 3
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3611.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT | Premium Calcio 4" tvg-logo="" group-title="Italy",Premium Calcio 4
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3612.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT | Premium Calcio 5" tvg-logo="" group-title="Italy",Premium Calcio 5
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3613.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 1" tvg-name="Arena Sport 1" tvg-logo="" group-title="EX-YU",SR: Arenasport 1
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/18209.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 2" tvg-name="Arena Sport 2" tvg-logo="" group-title="EX-YU",SR: ArenaSport 2
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/18208.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 3" tvg-name="Arena Sport 3" tvg-logo="" group-title="EX-YU",SR: Arenasport 3
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/18207.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 4" tvg-name="Arena Sport 4" tvg-logo="" group-title="EX-YU",SR: Arenasport 4
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/18205.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 5" tvg-name="Arena Sport 5" tvg-logo="" group-title="EX-YU",SR: Arenasport 5
+http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/18204.m3u8
