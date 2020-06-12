@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="Klan TV" tvg-name="Klan TV" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/TV_Klan.svg.png" group-title="Albania",KLAN
+#EXTINF:-1 tvg-ID="Klan TV" tvg-name="Klan TV Test Test" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/TV_Klan.svg.png" group-title="Albania",KLAN
 http://iptv-line.com:6969/live/BhT4LDLs51/wWOfuMOHqq/3421.m3u8
 #EXTINF:-1 tvg-ID="Klan Plus" tvg-name="Klan Plus" tvg-logo="https://iptv-e.000webhostapp.com/AlbLogo/Klan-Plus.png" group-title="Albania",KLAN Plus
 http://iptv-line.com:6969/live/cf9atAEvGY/wWOfuMOHqq/3422.m3u8
